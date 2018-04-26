@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">App_Transporte</string>
-    <string name="Boton1">Hola</string>
+    <string name="Boton1">Ruta 1</string>
+    <string name="Boton2">Ruta 2</string>
+    <string name="Boton3">Ruta 3</string>
+    <string name="Boton4">Ruta 4</string>
 </resources>
