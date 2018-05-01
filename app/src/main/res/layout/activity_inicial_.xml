@@ -7,7 +7,7 @@
     tools:context=".inicial_Activity">
 
     <com.google.android.gms.maps.MapView
-        android:id="@+id/mapView"
+        android:id="@+id/map1"
         android:layout_width="409dp"
         android:layout_height="217dp"
         app:layout_constraintBottom_toTopOf="@+id/constraintLayout"
@@ -23,7 +23,7 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/mapView">
+        app:layout_constraintTop_toBottomOf="@+id/map1">
 
         <Button
             android:id="@+id/btn_R1"
