@@ -30,3 +30,6 @@ proguard/
 
 # Android Studio captures folder
 captures/
+
+#nose de que es
+.idea/
